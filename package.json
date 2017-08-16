@@ -1,0 +1,11 @@
+{
+  "name": "nphcda",
+  "version": "1.0.0",
+  "description": "NPHCDA Demo Application",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}

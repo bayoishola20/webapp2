@@ -1,0 +1,22 @@
+html,
+body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: Bellefair;
+    }
+
+.esri-basemap-gallery__item-title {
+    color: white;
+}
+
+.calcite-panels.calcite-bg-dark .esri-print__panel-container.esri-print__advanced-options-section {
+    background-color: #337AB7;
+}
+
+.panel-label {
+    margin: auto;
+    display: table;
+    font-size: 20px;
+    text-transform: uppercase;
+}
