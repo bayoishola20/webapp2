@@ -32,7 +32,9 @@ require([
       var map = new WebMap({
         portalItem: {
           // id: "9f91f911f58540ceaac0300c55e18fbb"
-          id: "2167063b86bc4288a39e5c4c844a67b2"
+          // id: "84d09c8b6551486ea4ecec6c2979ca0e" //hosted, will require login
+          id: "2167063b86bc4288a39e5c4c844a67b2" //map layer item
+          // id: "00c54fece73a47e8a3d6b535d21997c8" // raw shapefile but requires login
         }
       });
       
