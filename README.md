@@ -23,5 +23,5 @@ Link
 
 
 ### PS:
-* Point data are loaded on ESRI's ArcGIS portal on a trial license and may not be available after some time. You could help pay for a subscription :winking_eye:
+* Point data are loaded on ESRI's ArcGIS portal on a trial license and may not be available after some time. You could help pay for a subscription :wink:
 * Harp.js, which is a result of the package.json file, was used to "trick" heroku to deploy these static files.
