@@ -19,7 +19,6 @@ Personal site: [bayoishola20](github.bayoishola20.io)
 
 [Live view of project](https://nphcda.herokuapp.com/) 
 
-Link
 
 
 ### PS:
